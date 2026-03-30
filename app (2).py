@@ -56,8 +56,4 @@ st.markdown("""
 
     /* --- Cards --- */
     .word-card {
-        background: rgba(255, 255, 255, 0.05);
-        border-radius: 12px;
-        padding: 20px 10px;
-        text-align: center;
-        border: 1px solid rgba(0, 23
+        background: rgba(255, 255, 255,
